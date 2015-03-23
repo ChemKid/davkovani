@@ -1,0 +1,10 @@
+MIDlet-1: Davkovani,/davkovani/icons/beaker.png,davkovani.Davkovani
+MIDlet-2: ChemCommander, , davkovani.ChemCommander
+MIDlet-Jar-Size: 199868
+MIDlet-Jar-URL: davkovani.jar
+MIDlet-Name: davkovani
+MIDlet-Permissions: javax.microedition.io.PushRegistry
+MIDlet-Vendor: Vendor
+MIDlet-Version: 0.2.23
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
